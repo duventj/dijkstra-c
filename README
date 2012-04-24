@@ -1,0 +1,4 @@
+TODO ne pas ajouter les arc qui bouclent sur le noeud (pr l'aleatoire) OK
+Pas le temps materiel de tester la supression du noeud : possible erreur dans les index
+Liberté a été prise d'utiliser la librairie pqueue d'oracle car c'est une librairie standard du C++, donc il n'est pas necessaire de la recoder entierement pour le C.
+il aurait été préférable que graphe.tab_noeud soit un Noeud** pour la suppression d'un noeud
